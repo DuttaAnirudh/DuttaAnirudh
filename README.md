@@ -1,6 +1,5 @@
 ## Hi I'm Anirudh! 👋
 💻 I'm a self-taught Frontend web developer.</br>
-🚀 Link to my [Portfolio](anirudhdutta.netlify.app).</br>
 🔭 I’m currently working on creating Websites using external APIs.</br>
 ✍🏽 I did my Bachelor's in Business Administration</br>
 🎯 My target is to become a fullstack web developer (MERN) by the end of 2024.</br>
