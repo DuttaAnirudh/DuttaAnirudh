@@ -14,7 +14,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DuttaAnirudh&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DuttaAnirudh&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DuttaAnirudh&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ⚡ Fun fact: I have never missed a semi-colon :)</br>
