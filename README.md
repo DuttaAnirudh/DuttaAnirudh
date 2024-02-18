@@ -1,6 +1,6 @@
 ## Hi I'm Anirudh! 👋
 💻 I'm a self-taught Frontend web developer.</br>
-🔭 I’m currently working on creating Websites using external APIs.</br>
+🔭 I’m currently working on creating NEtflix clone websites using the TMDB external API.</br>
 ✍🏽 I did my Bachelor's in Business Administration</br>
 🎯 My target is to become a fullstack web developer (MERN) by the end of 2024.</br>
 
