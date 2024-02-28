@@ -1,7 +1,7 @@
 ## Hi I'm Anirudh! 👋
 💻 I'm a self-taught Frontend web developer.</br>
-🔭 I’m currently creating a Netflix clone website using the TMDB's movie API.</br>
-✍🏽 I did my Bachelor's in Business Administration</br>
+🔭 I’m currently learning React.js from Udemy.</br>
+✍🏽 I did my Bachelor's in Business Administration.</br>
 🎯 My target is to become a fullstack web developer (MERN) by the end of 2024.</br>
 
 ## 🌐 Socials
