@@ -1,6 +1,6 @@
 ## Hi I'm Anirudh! 👋
 💻 I'm a self-taught Frontend web developer but i can create Fullstack apps using Supabase.</br>
-🔭 Currently building a hotel management app(CRUD app) using React.js for the frontend and supabase for the backend.</br>
+🔭 Currently learning Next.js from Udemy</br>
 ✍🏽 I did my Bachelor's in Business Administration.</br>
 🎯 My target is to become a fullstack web developer (MERN) by the end of 2024.</br>
 
