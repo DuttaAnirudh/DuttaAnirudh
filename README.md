@@ -1,7 +1,7 @@
 ## Hi I'm Anirudh! 👋
 💻 I'm a Frontend Web Developer and UI Designer.</br>
 🎓 I have learned frontend web developement from Udemy.</br>
-🔭 Currently building a fullstack web app using Next.js and Supabase.</br>
+🔭 Currently learning Typescript</br>
 🎯 My target is to become a fullstack web developer (MERN) by the end of 2024.</br>
 
 ## 🌐 Socials
