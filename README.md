@@ -1,7 +1,6 @@
 ## Hi I'm Anirudh! 👋
 💻 I'm a Frontend Web Developer and UI Designer.</br>
-🎓 I have learned frontend web developement from Udemy.</br>
-🔭 Currently building a video conferencing app with Next.js</br>
+🔭 Currently learning Backend Web Development - (Node.js, Express, MongoDB).</br>
 🎯 My target is to become a fullstack web developer (MERN) by the end of 2024.</br>
 
 ## 🌐 Socials
